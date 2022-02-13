@@ -1,0 +1,1 @@
+window.alert('Hello JavaScritpt! \n頑張って勉強しましょうね。');
